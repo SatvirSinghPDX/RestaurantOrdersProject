@@ -1,0 +1,19 @@
+Here is the Taco Bell menu:
+-------------------------------
+Entrees:			Price:
+1. Soft Taco		$1.89
+2. Bean Burrito		$2.99
+3. Quesadilla		$3.49
+4. Chalupa		$2.99
+
+Appetizers:		Price:
+1. Fiesta Potatoes	$3.99
+2. Chips & Salsa		$1.49
+3. Nachos		$1.59
+4. Seasoned Rice 	$1.49
+
+Desserts:		Price:
+1. Ice Cream		$2.99
+2. Cinnabon		$1.99
+3. Cinnamon Twists	$1.00
+-------------------------------
