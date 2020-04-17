@@ -1,0 +1,20 @@
+Here is the Red Robin menu:
+-------------------------------
+Entrees:			Price:
+1. Veggie Burger		$9.99
+2. Cheeseburger		$9.79
+3. Royal Red Robin	$11.19
+4. Four Cheese Melt	$7.99
+
+Appetizers:		Price:
+1. Onion Rings		$8.99
+2. Cheese Fries		$6.99
+3. Spinach Dip		$6.99
+4. Pretzel Bites		$4.99
+
+Desserts:		Price:
+1. Double Cheesecake	$5.99
+2. Kids Sundae		$2.99
+3. Chocolate Fruffles	$5.99
+4. Cinnamon Rings	$8.99
+-------------------------------
