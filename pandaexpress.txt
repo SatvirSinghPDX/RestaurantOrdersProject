@@ -1,0 +1,19 @@
+Here is the Panda Express menu:
+-------------------------------
+Entrees:			Price:
+1. Orange Chicken	$6.90
+2. Eggplant Tofu		$7.79
+3. Mushroom Chicken	$11.99
+4. Honey Walnut Shrimp	$13.49
+
+Appetizers:		Price:
+1. Cream Cheese Rangoon	$4.99
+2. Veggie Spring Roll	$7.99
+3. Chicken Potsticker	$6.99
+4. Crispy Shrimp		$5.99
+
+Desserts:		Price:
+1. Fortune Cookies	$0.99
+2. Egg Cake		$5.99
+3. Thai Fried Bananas	$4.99
+-------------------------------
