@@ -1,0 +1,22 @@
+Here is the Olive Garden menu:
+-------------------------------
+Entrees:			Price:
+1. Pizza			$12.29
+2. Lasagna		$12.99
+3. Cheese Ravioli	$5.99
+4. Spaghetti		$7.99
+5. Macaroni & Cheese 	$5.99
+
+Appetizers:		Price:
+1. Pizza Frita		$7.79
+2. Dip Duo		$12.29
+3. Calamari		$11.29
+4. Fried Mozzarella	$7.29
+5. Breadsticks		$3.99
+
+Desserts:		Price:
+1. Buttercream Cake	$7.79
+2. Cheesecake		$7.79
+3. Tiramisu		$7.79
+4. Zeppoli		$7.49
+-------------------------------
